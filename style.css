@@ -145,7 +145,7 @@ footer a:link, footer a:visited {
 .sidebar h3.archives { 
 	background: transparent url(http://csszengarden.com/001/h5.gif) no-repeat top left; 
 	margin: 25px 0 5px 0; 
-	width:57px; 
+	width:60px; 
 	height: 14px; 
 
 	text-indent: 100%;
@@ -172,8 +172,8 @@ footer a:link, footer a:visited {
 	line-height: 1.3em; 
 	background: transparent url(http://csszengarden.com/001/cr1.gif) no-repeat top center; 
 	display: block; 
-	padding-top: 5px; 
-	margin-bottom: 5px;
+	padding-top: 6px; 
+	margin-bottom: 6px;
 	list-style-type: none;
 	}
 .sidebar li a:link {
